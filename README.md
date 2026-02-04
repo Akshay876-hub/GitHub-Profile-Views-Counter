@@ -47,17 +47,17 @@ You can use any valid HEX color or one of the predefined names:
 
 | color         | demo                                                                                  |
 | ------------- | ------------------------------------------------------------------------------------- |
-| `brightgreen` | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=brightgreen) |
-| `green`       | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=green)       |
-| `yellow`      | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=yellow)      |
-| `yellowgreen` | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=yellowgreen) |
-| `orange`      | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=orange)      |
-| `red`         | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=red)         |
-| `blue`        | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=blue)        |
-| `grey`        | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=grey)        |
-| `lightgrey`   | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=lightgrey)   |
-| `blueviolet`  | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=blueviolet)  |
-| `ff69b4`      | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo&color=ff69b4)      |
+| `brightgreen` | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo1&color=brightgreen) |
+| `green`       | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo2&color=green)       |
+| `yellow`      | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo3&color=yellow)      |
+| `yellowgreen` | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo4&color=yellowgreen) |
+| `orange`      | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo5&color=orange)      |
+| `red`         | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo6&color=red)         |
+| `blue`        | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo7&color=blue)        |
+| `grey`        | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo8&color=grey)        |
+| `lightgrey`   | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo9&color=lightgrey)   |
+| `blueviolet`  | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo10&color=blueviolet)  |
+| `ff69b4`      | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo11&color=ff69b4)      |
 
 **Named color**
 
@@ -77,10 +77,10 @@ You can use any valid HEX color or one of the predefined names:
 
 | style           | demo                                                                                    |
 | --------------- | --------------------------------------------------------------------------------------- |
-| `flat`          | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo\&style=flat)          |
-| `flat-square`   | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo\&style=flat-square)   |
-| `plastic`       | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo\&style=plastic)       |
-| `for-the-badge` | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo\&style=for-the-badge) |
+| `flat`          | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo12&style=flat)          |
+| `flat-square`   | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo13&style=flat-square)   |
+| `plastic`       | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo14&style=plastic)       |
+| `for-the-badge` | ![](https://profileviews.blueorbitdevs.workers.dev/?username=demo15&style=for-the-badge) |
 | `pixel`         | Invisible counter (1×1 pixel, no badge shown)                                           |
 
 ```md
